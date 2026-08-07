@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 75vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.piano {
+    position: relative;
+    height: 500px;
+}
+
+.key {
+    height: 500px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.key.white {
+    width: 14.2857142857%;
+    float: left;
+    border-right: none;
+    padding-top: 375px;
+    background: white;
+    color: black;
+}
+
+.key.black {
+    background: black;
+    color: white;
+    width: 8%;
+    height: 300px;
+    position: absolute;
+    z-index: 2;
+    margin-left: -4%;
+    padding-top: 200px;
+}
+
+#B {
+    border-right: 3px solid black;
+}
+
+#C\# { left: 14.28%; }
+#D\# { left: 28.57%; }
+#F\# { left: 57.14%; }
+#G\# { left: 71.42%; }
+#A\# { left: 85.71%; }
