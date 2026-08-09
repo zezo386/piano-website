@@ -1,5 +1,7 @@
 # Piano Website
 
+![a screenshot of the piano](image.png)
+
 ## Features
 
 a piano with 7 white keys and 5 black keys that are in this order
