@@ -39,6 +39,10 @@ you can choose the wave form that you like for the piano from the selector which
 - square
 - sawtooth
 
+## Tutorial page
+
+also added a tutorial page for newcomers to learn how to use the piano
+
 ## Technology used
 
 this website is made using pure html css javascript and a java script library called Tone.js to produce the tones
