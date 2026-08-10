@@ -10,8 +10,27 @@ body {
     display: flex;
     flex-direction: column;
     gap: 50px;
+    background-color: grey;
+    color: white;
 }
 
+.upzone {
+    background-color: lightblue;
+    padding: 5px 20px;
+    color: darkblue;
+    border-radius: 30px;
+
+}
+
+.logo {
+    font-size: 50px;
+
+}
+
+.border {
+
+
+}
 .control-panel {
     display: flex;
     flex-direction: row;
