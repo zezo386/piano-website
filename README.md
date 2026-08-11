@@ -47,6 +47,11 @@ also added a tutorial page for newcomers to learn how to use the piano
 
 this website is made using pure html css javascript and a java script library called Tone.js to produce the tones
 
+## How To Clone
+just use this command
+
+`git clone https://github.com/zezo386/piano-website`
+
 ## Author
 
 Made by Ziad Elhusiny The GOAT of programming
